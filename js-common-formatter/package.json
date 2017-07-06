@@ -1,0 +1,25 @@
+{
+	"name": "js-common-formatter",
+	"version": "1.0.0",
+	"description": "Some format utils for string, number, date...",
+	"main": "index.js",
+	"scripts": {
+		"test": "test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bachden/js-common-formatter.git"
+	},
+	"keywords": [
+		"stringformatter",
+		"numberformatter",
+		"dateformatter",
+		"formatter"
+	],
+	"author": "bachden",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/bachden/js-common-formatter/issues"
+	},
+	"homepage": "https://github.com/bachden/js-common-formatter#readme"
+}
